@@ -1,1 +1,2 @@
 # SEC-EDGAR
+My project aims to analyze the human capital section of 10k filings for Russell3000 companies from 2020 to 2022. However, I faced a challenge in creating individual parsers for each company, which slowed down my progress. In this project, I've shared the code I wrote in Python to fetch the 10k filings and parse the human capital section for 5 companies. I'm looking for feedback and suggestions on how to overcome the challenge of creating individual parsers for all the companies.
